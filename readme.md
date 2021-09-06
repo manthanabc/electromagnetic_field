@@ -1,5 +1,6 @@
 # Interactive fields
 This is a program writen in processig 3 to play with electromagnetic_fiels and interact with them.
+[![](https://imgur.com/zFQCP3o.png)](https://imgur.com/zFQCP3o.png)
 ## installing 
 To get starte just clone the repository
 ```git clone https://github.com/manthanabc/electromagnetic_field```
